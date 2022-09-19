@@ -1,16 +1,29 @@
+
 #gramsay {
+    display: block;
     width: 30em;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1{
-    color: pink;
+    color: darkslategray;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
 }
 
+h2{
+    color: lightslategray;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    margin-left: 36px;
+}
 
 ul {
     list-style-type: none;
-    background-color: lightblue;
-    text-align: center;
-    font-style: ;
+    background-color: transparent;
+    text-align: left;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
 }

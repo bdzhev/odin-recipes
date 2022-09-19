@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 2.5rem;
+}
+
+h2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-left: 1rem;
+}
+
+li{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    margin-left: -1rem;
+
+}
+
+#lasagna{
+    display: block;
+    width: 15rem;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#pasta {
+    display: block;
+    width: 15rem;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,16 @@
+#gramsay {
+    width: 30em;
+    height: auto;
+}
+
+h1{
+    color: pink;
+}
+
+
+ul {
+    list-style-type: none;
+    background-color: lightblue;
+    text-align: center;
+    font-style: ;
+}
